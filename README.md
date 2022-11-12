@@ -5,19 +5,17 @@ alt="Typing SVG" /></a>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h3 align="left"> ,</h3>
+<h3 align="left"> </h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
      
--- 🔭 I’m currently working on 
+ 🔭 I’m currently working on 
 [Whatsapp automation bot](https://github.com/gracemann365/Whatsapp-Automation-Bot)
-     
--- 🌱 I’m currently learning **Full Stack Development and DSA**
 
--- 💬 Ask me about **Full Stack Development**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=3250&pause=300&color=C5F781&width=550&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+**Full+Stack+Development+and+DSA**" alt="Typing SVG" /></a><br>
+📫 How to reach me **gracemann365@gmail.com**<br>
 
--- 📫 How to reach me **gracemann365@gmail.com**
-
--- ⚡ Fun fact **i can recite upto 443 digits of pi**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=3000&pause=250&color=E832F7&width=550&lines=%F0%9F%92%AC+Ask+me+about+Full+Stack+Development" alt="Typing SVG" /></a><br>
+⚡ Fun fact **i can recite upto 443 digits of pi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,7 +88,36 @@ alt="Typing SVG" /></a>
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </p>
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<p align="center">
+<a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
+
+<!--📊STATSGRAPH / 🌐WEBSITE:https://github.com/gracemann365/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gracemann365&show_icons=true&theme=merko">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/gracemann365/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracemann365&layout=compact&theme=merko">
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 
 
 <!--
