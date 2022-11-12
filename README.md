@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1EF723&multiline=true&width=435&lines=Hi+I'm+David+Grace" 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1EF723&multiline=true&width=435&lines=Hi+I'm+David+Grace+🧑‍💻" 
 alt="Typing SVG" /></a>
 
 <div align="right">
