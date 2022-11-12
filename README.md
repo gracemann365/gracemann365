@@ -111,6 +111,9 @@ alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://github.com/gracemann365/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracemann365&layout=compact&theme=merko">
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gracemann365&theme=github)](https://github.com/gracemann365/github-readme-activity-graph)
+
+     
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
