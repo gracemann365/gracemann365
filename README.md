@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm David Grace</h1>
+<h1 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi +👋;I'm+David+Grace)](https://git.io/typing-svg)</h1>
 <div align="right">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
