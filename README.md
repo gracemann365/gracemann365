@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1EF723&multiline=true&width=435&lines=Hi+I'm+David+Grace+🧑‍💻" 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=1EF723&multiline=true&width=435&lines=Hi+I'm+David+Grace+🧑‍💻;I like+breaking my limits+ hence I code !" 
 alt="Typing SVG" /></a>
 
 <div align="right">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h3 align="left">I like breaking my limits, hence I code !</h3>
+<h3 align="left"> ,</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
      
 -- 🔭 I’m currently working on [Whatsapp automation bot](https://github.com/gracemann365/Whatsapp-Automation-Bot)
