@@ -8,7 +8,7 @@ alt="Typing SVG" /></a>
 <h3 align="right"> </h3>
 
  🔭 I’m currently working on 
-[Whatsapp automation bot](https://github.com/gracemann365/Whatsapp-Automation-Bot)
+GracemannGPT ( a simple ChatGPT clone )
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=3250&pause=300&color=C5F781&width=550&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+**Full+Stack+Development+and+DSA**" alt="Typing SVG" /></a><br>
 📫 How to reach me **gracemann365@gmail.com**<br>
