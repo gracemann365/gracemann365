@@ -76,25 +76,3 @@ GracemannGPT ( a simple ChatGPT clone )
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </p>  
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
-<p align="center">
-<a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
-
-<!--📊STATSGRAPH / 🌐WEBSITE:https://github.com/gracemann365/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gracemann365&show_icons=true&theme=merko">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/gracemann365/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracemann365&layout=compact&theme=merko">
-
