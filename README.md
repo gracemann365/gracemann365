@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **MERN STACK , Powershell , Flask**
 
-- 📲 Portfolio [https://gracemann365.github.io/portfolio28/#portfolio](https://tinyurl.com/davidgrace28)
+- 📲 Portfolio [davidgrace28](https://tinyurl.com/davidgrace28)
 
 - ⚡ Fun fact **i can recite upto 443 digits of pi**
   
