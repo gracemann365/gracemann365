@@ -22,7 +22,7 @@
 
 - 📲 Portfolio [davidgrace28](https://tinyurl.com/davidgrace28)
 
-- ⚡ Fun fact **i can recite upto 443 digits of pi**
+- ⚡ Fun fact **i can recite upto 999 digits of pi**
   
 <h3 align="left">Connect with me:</h3>
 <div align="left">
