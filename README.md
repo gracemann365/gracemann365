@@ -16,9 +16,9 @@
 
 
 
-- 💻 I’m currently working on [Dhamaka-OTT API](https://github.com/gracemann365/Dhamaka-OTT)
+- 💻 I’m currently under training as Associate Engineer @ ECS Fin Inc.
 
-- 🌱 I’m currently learning **MERN STACK , Powershell , Flask**
+- 🌱 I’m currently learning **Basics of Development**
 
 - 📲 Portfolio [davidgrace28](https://tinyurl.com/davidgrace28)
 
