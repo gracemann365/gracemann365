@@ -18,7 +18,7 @@
 
 - 💻 I’m currently under training as Associate Engineer @ ECS Fin Inc.
 
-- 🌱 I’m currently learning **Basics of Development**
+- 🌱 I’m currently Re-learning **Backend Engineering Fundamentals**
 
 - 📲 Portfolio [davidgrace28](https://tinyurl.com/davidgrace28)
 
