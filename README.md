@@ -16,7 +16,7 @@
 
 
 
-- 💻 I’m currently under training as Associate Engineer @ ECS Fin Inc.
+- 💻 I’m currently under training as Fintech Engineer @ ECS Fin Inc.
 
 - 🌱 I’m currently Re-learning **Backend Engineering Fundamentals**
 
