@@ -15,7 +15,6 @@
   <tr>
     <td align="center"><a href="https://linkedin.com/in/david-grace" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn" height="28"/></a></td>
     <td align="center"><a href="https://leetcode.com/gracemann365" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square" alt="LeetCode" height="28"/></a></td>
-    <td align="center"><a href="https://www.hackerrank.com/gracemann365" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=flat-square" alt="HackerRank" height="28"/></a></td>
     <td align="center"><a href="https://codeforces.com/profile/gracemann111" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Gracemann111-0C1C7D?logo=codeforces&style=flat-square" alt="Codeforces" height="28"/></a></td>
     <td align="center"><a href="https://auth.geeksforgeeks.org/user/gracemann365" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Gracemann365-F7931E?logo=geeksforgeeks&style=flat-square" alt="GeeksforGeeks" height="28"/></a></td>
   </tr>
