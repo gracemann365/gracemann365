@@ -107,31 +107,3 @@ Though rooted in Payments & BFSI, my execution is fully language-agnostic—ship
     <td align="center"><img src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" width="80"/><br>Cursor</td>
   </tr>
 </table>
-
-
----
-
-## 🚀 Active Projects
-
-> Below are my live and evolving projects focused on Payments, AI, and full-stack architecture:
-
-- **OpenPay – UPI Payment Gateway**  
-  Java 17, Redis, Spring Boot, Oracle XE, Docker, AWS  
-  - Fine-tuning Resilience4j + retry logic for 1000 tx/sec loads.  
-  - Building comprehensive JUnit coverage for fault simulation.
-
-- **MiniCard Switch – ISO 8583 Processor**  
-  Java 17, Netty, Python FastAPI, PostgreSQL, Kafka, Docker, GCP  
-  - Building custom rule-engine UI and HSM simulation interface.  
-  - Helm-based deployment pipeline with Prometheus metrics.
-
-- **Checkbook.ai – LLM Financial Analyst**  
-  Java REST, Angular, Go (Gin), PostgreSQL + pgvector, GPT-4  
-  - Hybrid AI pipeline with Kafka decoupling and MongoDB cache.  
-  - Optimized to <50ms latency with vector-based sharding.
-
-- **SME Dashboard – Support Chatbot with LLMs**  
-  Java 17, BERT, Angular, MySQL, AWS, Docker  
-  - Real-time sentiment detection, log-driven retraining loops.
-
----
