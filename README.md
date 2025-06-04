@@ -1,109 +1,122 @@
-<!-- Typing SVG: Software Engineer > BFSI Specialist -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=250&color=1EF723&multiline=false&width=800&lines=Software+Engineer;Building+End-to-End+Payment+Systems+BFSI)](https://git.io/typing-svg)
+```text
 
-# David Grace
+ /$$$$$$$                       /$$       /$$        /$$$$$$                                         
+| $$__  $$                     |__/      | $$       /$$__  $$                                        
+| $$  \ $$  /$$$$$$  /$$    /$$ /$$  /$$$$$$$      | $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$ 
+| $$  | $$ |____  $$|  $$  /$$/| $$ /$$__  $$      | $$ /$$$$ /$$__  $$ |____  $$ /$$_____/ /$$__  $$
+| $$  | $$  /$$$$$$$ \  $$/$$/ | $$| $$  | $$      | $$|_  $$| $$  \__/  /$$$$$$$| $$      | $$$$$$$$
+| $$  | $$ /$$__  $$  \  $$$/  | $$| $$  | $$      | $$  \ $$| $$       /$$__  $$| $$      | $$_____/
+| $$$$$$$/|  $$$$$$$   \  $/   | $$|  $$$$$$$      |  $$$$$$/| $$      |  $$$$$$$|  $$$$$$$|  $$$$$$$
+|_______/  \_______/    \_/    |__/ \_______/       \______/ |__/       \_______/ \_______/ \_______/
 
-**Software Engineer – Payments & BFSI | Full-Stack | AI & Distributed Systems**
+```
+##  Software Engineer 
+### Payments Infrastructure & BFSI | Full-Stack | End to End Product Ownership | AI & Distributed Systems  
 
-✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) • 📍 Whitefield, Bengaluru  
+✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
+---
+
+## 🌐 Let's Build F500 Grade Infrastructure Together !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Grace-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/david-grace)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/gracemann365)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Gracemann365-0A0A0A?logo=dev.to&style=flat-square)](https://dev.to/gracemann365)
+[![Medium](https://img.shields.io/badge/Medium-Gracemann365-12100E?logo=medium&style=flat-square)](https://medium.com/@gracemann365)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Gracemann365-F7931E?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/gracemann365)
+[![X](https://img.shields.io/badge/X-Gracemann365-000000?logo=x&style=flat-square)](https://x.com/Gracemann365)
+
+---
+## 🤔 Who Is David Grace?
+
+Hi, I’m David Grace from Bangalore— Im a Software Engineer , I strive to stay as stack- and domain-agnostic as possible, but I must confess I have a particular affinity for enterprise payment infrastructure and the broader BFSI domain.
+
+My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards. Whether using Java, Python, or Go, my passion lies in designing, building, and shipping robust financial systems—including Payment Aggregators , ISO 8583 card switches, fraud detection modules, and LLM-integrated tools—always prioritizing clean architecture, auditability, and scalability.
 
 ---
 
-## 🌐 Connect
+### 🏗️ How I Build ? 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://linkedin.com/in/david-grace" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn" height="28"/></a></td>
-    <td align="center"><a href="https://leetcode.com/gracemann365" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square" alt="LeetCode" height="28"/></a></td>
-    <td align="center"><a href="https://codeforces.com/profile/gracemann111" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Gracemann111-0C1C7D?logo=codeforces&style=flat-square" alt="Codeforces" height="28"/></a></td>
-    <td align="center"><a href="https://auth.geeksforgeeks.org/user/gracemann365" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Gracemann365-F7931E?logo=geeksforgeeks&style=flat-square" alt="GeeksforGeeks" height="28"/></a></td>
-  </tr>
-</table>
+1. **Full Lifecycle Engineering:**  
+   - Case study → Mental Mapping → HLD/LLD → Prereq Analysis → Environment Setup  
+   - Lean e2e MVP with TDD & docs → Advanced testing/audit → OSS Hygiene → Shipping  
+   - DevOps → IaC → Cloud benchmarks → SRE & observability → Full product ownership
 
----
+2. **Quality Engineering, Not Just Coding:**  
+   - DRY, KISS, SOLID.  
+   - Modular by default (monolith or microservices).
+   - Nuanced tradeoffs—never overengineering.
+   - Robust exception handling, strong test suites.
+   - Git hygiene, deliberate reviews, handoff-ready code.
+   - Fast prototyping > perfect code; ship, learn, iterate.
 
-## 🔍 Who Is David Grace?
-
-I'm a Full-Stack Software Engineer focused on building high-throughput financial systems and LLM-integrated tools. With production-grade experience across Java, Python, and Go ecosystems, I’ve built UPI gateways, card switches (ISO 8583), fraud detection modules, and financial data chatbots—bridging backend scale, AI insight, and frontend UX.
-
-Though rooted in Payments & BFSI, my execution is fully language-agnostic—shipping clean, scalable systems on GCP, AWS, Kubernetes, Kafka, and beyond.
-
----
-
-## 💼 Core Skills
-
-### 🧩 Backend Technologies
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" width="40"/><br>Hibernate</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="40"/><br>Go</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" width="40"/><br>FastAPI</td>
-  </tr>
-</table>
+3. **FLOSS Advocacy & Governance:**  
+   - All flagship products are FLOSS (MIT), modeled after Linux/Oracle-grade repositories.
+   - Self-governed, community-driven, with strong vision and enterprise infra.
+   - No black-boxes, ever. Templates and infra that anyone can extend or audit.
 
 ---
 
-### 🎨 Frontend & UI
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40"/><br>Angular</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
-  </tr>
-</table>
+### Why this matters: 
+I believe in making onboarding easy and impact fast—so whoever hires me gets a real engineer, not just a coder. My process makes it easy to ship MVPs, own the lifecycle, and help teams scale without drama.
 
 ---
 
-### 🗄️ Databases & Storage
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://assets.findstack.com/a6rqb1bk0id3f1cuccnimhud78jm" width="40"/><br>pgvector</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
-    <td align="center"><img src="https://img.favpng.com/13/12/4/computer-icons-oracle-database-clip-art-png-favpng-dAbFDUh5yF5uMwzPn3XRtpVSS.jpg" width="60"/><br>Oracle SQL</td>
-  </tr>
-</table>
+### Want to connect, collaborate, or review my work?  
+Just check out my flagship repos, FLOSS templates, and reach out on [GitHub Discussions](https://github.com/Gracemann365/flosspay/discussions) or [dev.to](https://dev.to/gracemann365).
 
 ---
 
-### ⚙️ DevOps, Cloud & CLI
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br>Kubernetes</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br>GCP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
-    <td align="center"><img src="https://img.shields.io/badge/PowerShell-Scripting-blue?style=flat-square" width="90"/><br>PowerShell</td>
-  </tr>
-</table>
-
+*FLOSS. Ship Fast. Audit Everything. Grow together.*
 ---
+# 💼 Core Technology Stack 
 
-### 🧠 AI, ML & Cognitive Stack
+### 🧠 Architecture & System Design
+Designed distributed systems (HLD/LLD), async queues, idempotent workflows, retries, sub-250ms p99 latency @500+ TPS scale.
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg" width="60"/><br>BERT</td>
-    <td align="center"><img src="https://yt3.googleusercontent.com/7aMstlSvB1R2xAAOxF91vHWtAX2bhptsv6ROXPglCOyax0HKc8AATSYbqKr-10u4WvJ-e08b7Qg=s900-c-k-c0x00ffffff-no-rj" width="90"/><br>LangChain</td>
-    <td align="center"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-old-logo.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400" width="65"/><br>OpenAI GPT</td>
-    <td align="center"><img src="https://img.shields.io/badge/LLM-Stack-orange?style=flat-square" width="70"/><br>LLM</td>
-    <td align="center"><img src="https://img.shields.io/badge/MCP-Cognitive-purple?style=flat-square" width="80"/><br>MCP</td>
-    <td align="center"><img src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" width="80"/><br>Cursor</td>
-  </tr>
-</table>
+### 💻 Backend & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,go,python,fastapi" height="25"/>
+  <img src="https://skillicons.dev/icons?i=angular,ts,javascript" height="25"/>
+  <img src="https://img.shields.io/badge/Flyway-Migration-red?style=flat-square" height="20"/>
+</p>
+
+### 🛢 Databases, DevOps & Messaging
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="25"/>
+  <img src="https://img.shields.io/badge/pgvector-Similarity-blue?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/Oracle-SQL-orange?style=flat-square" height="20"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,kafka,redis,linux,git" height="25"/>
+</p>
+
+### ☁️ Platform & IaC
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure-purple?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/EKS-Ready-blue?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/IAM-Secure-yellow?style=flat-square" height="20"/>
+</p>
+
+### ☸️ SRE & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/BlueGreen-Deployments-green?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/SLOs-SRE-critical?style=flat-square" height="20"/>
+</p>
+
+### 🔐 Security & AI/ML
+<p align="left">
+  <img src="https://img.shields.io/badge/PCI--DSS-Ready-critical?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/OWASP-SecureCoding-blue?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/Tokenization-Enabled-green?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/GPT-OpenAI-informational?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/BERT-NLP-purple?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/LangChain-Agent?style=flat-square" height="20"/>
+</p>
+
+### 📊 Domain Expertise
+- **Payments:** UPI, ISO 8583, idempotency, ledger flows  
+- **Compliance:** PCI-DSS, KYC/AML, audit logging  
+- **Quant/Risk:** options pricing, risk models, HPC
+
+### 💹 Career Trajectory
+Quant Finance · HPC Systems · High-Frequency Trading (HFT)
+
