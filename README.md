@@ -22,7 +22,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/gracemann365)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Gracemann365-0A0A0A?logo=dev.to&style=flat-square)](https://dev.to/gracemann365)
 [![Medium](https://img.shields.io/badge/Medium-Gracemann365-12100E?logo=medium&style=flat-square)](https://medium.com/@gracemann365)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Gracemann365-F7931E?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/gracemann365)
 [![X](https://img.shields.io/badge/X-Gracemann365-000000?logo=x&style=flat-square)](https://x.com/Gracemann365)
 
 ---
