@@ -17,7 +17,7 @@
 ---
 ## 🤔 Who Is David Grace?
 
-### Hi, I’m David Grace from Bangalore— Im a Software Engineer , I strive to stay as stack- and domain-agnostic as possible, but I must confess I have a particular affinity for enterprise payment infrastructure and the broader BFSI domain. My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards.
+### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have a unintentional affinity for Enterprise Payment Infrastructure & BFSI
 ---
 
 ### 🏗️ How I Build ( Full Lifecycle Engineering ) ? 
@@ -27,22 +27,20 @@
    - TestOps → OSS Hygiene → Shipping -> DevOps → IaC → Cloud benchmarks → SRE & observability → Full product ownership
 
 2. **Quality Engineering, Not Just Coding:**  
-   - DRY, KISS, SOLID.  
-   - Modular by default (monolith or microservices).
-   - Nuanced tradeoffs—never overengineering. & Robust exception handling, strong test suites
-   
+   - DRY, KISS, SOLID ; Modular by default (monolith or microservices).
+   - Nuanced tradeoffs—never overengineering. & Robust exception handling, strong test suite
+   - 
 3. **FLOSS Advocacy & Governance:**  
    - All flagship products are FLOSS (MIT), modeled after Linux/Oracle-grade repositories.
    - Self-governed, community-driven, with strong vision and enterprise infra.
-   
-**I believe in making onboarding easy and impact fast—so whoever hires me gets a real engineer, not just a coder.**
+   - 
+**I Mirror Industry Standards So the Onboarding Is So Seamless I Contribute From Day #1 **
 
 ---
 ### 📊 Domain Expertise
-- **Payments:** UPI, ISO 8583, idempotency, ledger flows  
-- **Compliance:** PCI-DSS, KYC/AML, audit logging  
-- **Quant/Risk:** options pricing, risk models, HPC
+- **Payments:** UPI, ISO 8583, ISO 27001 , ISO 20022 , idempotency, ledger flows , HMAC SHA 256
+- **Compliance:** PCI-DSS, KYC/AML, audit logging , RBI NPCI , FEDERAL RESERVE 
 
-### 💹 Career Trajectory
+### 💹 where Do I See Myself Down the Lane ?
 Quant Finance · HPC Systems · High-Frequency Trading (HFT)
 
