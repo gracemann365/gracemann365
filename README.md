@@ -15,21 +15,10 @@
 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
 ---
-
-## *FLOSS. Ship Fast. Audit Everything. Grow together.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Grace-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/david-grace)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/gracemann365)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Gracemann365-0A0A0A?logo=dev.to&style=flat-square)](https://dev.to/gracemann365)
-[![Medium](https://img.shields.io/badge/Medium-Gracemann365-12100E?logo=medium&style=flat-square)](https://medium.com/@gracemann365)
-[![X](https://img.shields.io/badge/X-Gracemann365-000000?logo=x&style=flat-square)](https://x.com/Gracemann365)
-
----
 ## 🤔 Who Is David Grace?
 
 Hi, I’m David Grace from Bangalore— Im a Software Engineer , I strive to stay as stack- and domain-agnostic as possible, but I must confess I have a particular affinity for enterprise payment infrastructure and the broader BFSI domain.
-My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards. Whether using Java, Python, or Go, my passion lies in designing, building, and shipping robust financial systems
-
+My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards.
 ---
 
 ### 🏗️ How I Build ( Full Lifecycle Engineering ) ? 
