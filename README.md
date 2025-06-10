@@ -32,73 +32,24 @@ My true focus, however, always remains on core engineering principles that meet 
 
 ---
 
-### 🏗️ How I Build ? 
+### 🏗️ How I Build ( Full Lifecycle Engineering ) ? 
 
 1. **Full Lifecycle Engineering:**  
-   - Case study → Mental Mapping → HLD/LLD → Prereq Analysis → Environment Setup  
-   - Lean e2e MVP with TDD & docs → Advanced testing/audit → OSS Hygiene → Shipping  
-   - DevOps → IaC → Cloud benchmarks → SRE & observability → Full product ownership
+   - Case study → Mental Mapping → HLD/LLD → Prereq Analysis → Lean e2e MVP with TDD & docs 
+   - TestOps → OSS Hygiene → Shipping -> DevOps → IaC → Cloud benchmarks → SRE & observability → Full product ownership
 
 2. **Quality Engineering, Not Just Coding:**  
    - DRY, KISS, SOLID.  
    - Modular by default (monolith or microservices).
-   - Nuanced tradeoffs—never overengineering.
-   - Robust exception handling, strong test suites.
-   - Git hygiene, deliberate reviews, handoff-ready code.
-   - Fast prototyping > perfect code; ship, learn, iterate.
-
+   - Nuanced tradeoffs—never overengineering. & Robust exception handling, strong test suites
+   
 3. **FLOSS Advocacy & Governance:**  
    - All flagship products are FLOSS (MIT), modeled after Linux/Oracle-grade repositories.
    - Self-governed, community-driven, with strong vision and enterprise infra.
-   - No black-boxes, ever. Templates and infra that anyone can extend or audit.
    
-I believe in making onboarding easy and impact fast—so whoever hires me gets a real engineer, not just a coder. My process makes it easy to ship MVPs, own the lifecycle, and help teams scale without drama.
+**I believe in making onboarding easy and impact fast—so whoever hires me gets a real engineer, not just a coder.**
 
 ---
-# 💼 Core Tech Stack 
-
-### 🧠 Architecture & System Design
-Designed distributed systems (HLD/LLD), async queues, idempotent workflows, retries, sub-250ms p99 latency @500+ TPS scale.
-
-### 💻 Backend & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,go,python,fastapi" height="25"/>
-  <img src="https://skillicons.dev/icons?i=angular,ts,javascript" height="25"/>
-  <img src="https://img.shields.io/badge/Flyway-Migration-red?style=flat-square" height="20"/>
-</p>
-
-### 🛢 Databases, DevOps & Messaging
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="25"/>
-  <img src="https://img.shields.io/badge/pgvector-Similarity-blue?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/Oracle-SQL-orange?style=flat-square" height="20"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,kafka,redis,linux,git" height="25"/>
-</p>
-
-### ☁️ Platform & IaC
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-Infrastructure-purple?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/EKS-Ready-blue?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/IAM-Secure-yellow?style=flat-square" height="20"/>
-</p>
-
-### ☸️ SRE & Observability
-<p align="left">
-  <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/BlueGreen-Deployments-green?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/SLOs-SRE-critical?style=flat-square" height="20"/>
-</p>
-
-### 🔐 Security & AI/ML
-<p align="left">
-  <img src="https://img.shields.io/badge/PCI--DSS-Ready-critical?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/OWASP-SecureCoding-blue?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/Tokenization-Enabled-green?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/GPT-OpenAI-informational?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/BERT-NLP-purple?style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/LangChain-Agent?style=flat-square" height="20"/>
-</p>
-
 ### 📊 Domain Expertise
 - **Payments:** UPI, ISO 8583, idempotency, ledger flows  
 - **Compliance:** PCI-DSS, KYC/AML, audit logging  
