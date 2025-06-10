@@ -10,13 +10,13 @@
 |_______/  \_______/    \_/    |__/ \_______/       \______/ |__/       \_______/ \_______/ \_______/
 
 ```
-##  Software Engineer 
+#  Software Engineer 
 ### Payments Infrastructure | Banking, Financial Services and Insurance | E2E Ownership | AI-LLM
 
-✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
+### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
 ---
 
-## 🌐 Let's Build F500 Grade Infrastructure Together !
+## *FLOSS. Ship Fast. Audit Everything. Grow together.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Grace-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/david-grace)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Gracemann365-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/gracemann365)
@@ -52,22 +52,11 @@ My true focus, however, always remains on core engineering principles that meet 
    - All flagship products are FLOSS (MIT), modeled after Linux/Oracle-grade repositories.
    - Self-governed, community-driven, with strong vision and enterprise infra.
    - No black-boxes, ever. Templates and infra that anyone can extend or audit.
-
----
-
-### Why this matters: 
+   
 I believe in making onboarding easy and impact fast—so whoever hires me gets a real engineer, not just a coder. My process makes it easy to ship MVPs, own the lifecycle, and help teams scale without drama.
 
 ---
-
-### Want to connect, collaborate, or review my work?  
-Just check out my flagship repos, FLOSS templates, and reach out on [GitHub Discussions](https://github.com/Gracemann365/flosspay/discussions) or [dev.to](https://dev.to/gracemann365).
-
----
-
-*FLOSS. Ship Fast. Audit Everything. Grow together.*
----
-# 💼 Core Technology Stack 
+# 💼 Core Tech Stack 
 
 ### 🧠 Architecture & System Design
 Designed distributed systems (HLD/LLD), async queues, idempotent workflows, retries, sub-250ms p99 latency @500+ TPS scale.
