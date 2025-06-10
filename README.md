@@ -41,6 +41,6 @@
 - **Payments:** UPI, ISO 8583, ISO 27001 , ISO 20022 , idempotency, ledger flows , HMAC SHA 256
 - **Compliance:** PCI-DSS, KYC/AML, audit logging , RBI NPCI , FEDERAL RESERVE 
 
-### 💲 where Do I See Myself Down the Lane ?
+### 💲 Where Do I See Myself Down the Lane ?
 Quant Finance · HPC Systems · High-Frequency Trading (HFT)
 
