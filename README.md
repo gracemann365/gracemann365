@@ -17,8 +17,7 @@
 ---
 ## 🤔 Who Is David Grace?
 
-Hi, I’m David Grace from Bangalore— Im a Software Engineer , I strive to stay as stack- and domain-agnostic as possible, but I must confess I have a particular affinity for enterprise payment infrastructure and the broader BFSI domain.
-My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards.
+### Hi, I’m David Grace from Bangalore— Im a Software Engineer , I strive to stay as stack- and domain-agnostic as possible, but I must confess I have a particular affinity for enterprise payment infrastructure and the broader BFSI domain. My true focus, however, always remains on core engineering principles that meet Fortune 500 and Linux Foundation standards.
 ---
 
 ### 🏗️ How I Build ( Full Lifecycle Engineering ) ? 
