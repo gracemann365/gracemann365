@@ -11,7 +11,7 @@
 
 ```
 #  Software Engineer 
-### Payments Infrastructure | Banking, Financial Services and Insurance | E2E Ownership | AI-LLM
+### Payments Infrastructure | Banking, Financial Services and Insurance | E2E Ownership
 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
 ---
