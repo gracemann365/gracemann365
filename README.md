@@ -11,7 +11,7 @@
 
 ```
 ##  Software Engineer 
-### Payments Infrastructure & BFSI | Full-Stack | End to End Product Ownership | AI & Distributed Systems  
+### Payments Infrastructure | Banking, Financial Services and Insurance (BFSI) | End to End Product Ownership | AI-LLM & Distributed Systems  
 
 ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 📍 Whitefield, Bengaluru  
 ---
