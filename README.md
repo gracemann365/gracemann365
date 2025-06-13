@@ -17,7 +17,7 @@
 ---
 ## 💲 Who Is David Grace ?
 
-### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have a unintentional affinity for Enterprise Payment Infrastructure & Agentic Crypto Payments 
+### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have an obesssion for Enterprise Payments Infrastructure & Agentic Crypto Payments 
 ---
 
 ### 💲 How I Build ( Full Lifecycle Engineering ) ? 
