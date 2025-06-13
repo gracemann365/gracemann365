@@ -11,13 +11,13 @@
 
 ```
 #  Software Engineer 
-### Payments Infrastructure | Agentic Crypto Payments Infrastructure | SDKs & APIs 
+### Fiat Payments Infrastructure | Agentic Crypto Payments | SDKs & APIs 
 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru  
 ---
 ## 💲 Who Is David Grace ?
 
-### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have an obesssion for Enterprise Payments Infrastructure & Agentic Crypto Payments 
+### Im a Software Engineer , I strive to stay as Stack- and Domain-agnostic , But I Must Confess I have an obesssion for Enterprise Fiat Payments Infrastructure & Agentic Crypto Payments 
 ---
 
 ### 💲 How I Build ( Full Lifecycle Engineering ) ? 
@@ -37,7 +37,7 @@
 ## I Mirror Industry Standards So the Onboarding Is So Seamless I Contribute From Day #1
 
 ---
-### 💲 Domain Expertise
+### 💲 Domain Expertise ( Fiat & Crypto )
 - **Payments:** UPI, ISO 8583, ISO 27001 , ISO 20022 , idempotency, ledger flows , HMAC SHA 256
 - **Compliance:** PCI-DSS, KYC/AML, audit logging , RBI NPCI , FEDERAL RESERVE 
 
