@@ -11,13 +11,13 @@
 
 ```
 #  Software Engineer 
-### Payments Infrastructure | Banking, Financial Services and Insurance | E2E Ownership
+### Payments Infrastructure | Agentic Crypto Payments Infrastructure | SDKs & APIs 
 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru  
 ---
 ## 💲 Who Is David Grace ?
 
-### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have a unintentional affinity for Enterprise Payment Infrastructure & BFSI
+### Im a Software Engineer , I strive to stay as stack- and domain-agnostic , but I must confess I have a unintentional affinity for Enterprise Payment Infrastructure & Agentic Crypto Payments 
 ---
 
 ### 💲 How I Build ( Full Lifecycle Engineering ) ? 
