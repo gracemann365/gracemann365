@@ -17,7 +17,7 @@
 ---
 ## 💲 Who Is David Grace ?
 
-### Im a Software Engineer , I strive to stay as Stack- and Domain-agnostic , But I Must Confess I have an obesssion for Enterprise Fiat Payments Infrastructure & Agentic Crypto Payments 
+### Im a Software Engineer , I strive to stay as Stack- and Domain-agnostic , But I Must Confess I have an obesssion for Blockchain Infra & Enterprise Fiat Infra
 ---
 
 ### 💲 How I Build ( Full Lifecycle Engineering ) ? 
