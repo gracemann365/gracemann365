@@ -11,7 +11,7 @@
 
 ```
 #  Software Engineer 
-### Fiat Payments Infrastructure | Agentic Crypto Payments | SDKs & APIs 
+### Blockchain Infrastructure | Crypto | Agentic Payments 
 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru  
 ---
