@@ -10,10 +10,9 @@
 |_______/  \_______/    \_/    |__/ \_______/       \______/ |__/       \_______/ \_______/ \_______/
 
 ```
-#  Software Engineer 
-### Blockchain Infrastructure | Crypto | Agentic Payments 
-
-### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru  
+#  SWE ( Blockchain Infrastructure | Crypto | Agentic Payments )
+### 
+### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru | ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
 ---
 ## 💲 Who Is David Grace ?
 
