@@ -29,10 +29,6 @@
 2. **Quality Engineering, Not Just Coding:**  
    - DRY, KISS, SOLID ; Modular by default (monolith or microservices).
    - Nuanced tradeoffs—never overengineering. & Robust exception handling, strong test suite
-    
-3. **FLOSS Advocacy & Governance:**  
-   - All flagship products are FLOSS (MIT), modeled after Linux/Oracle-grade repositories.
-   - Self-governed, community-driven, with strong vision and enterprise infra.
      
 ## I Mirror Industry Standards So the Onboarding Is So Seamless I Contribute From Day #1
 
