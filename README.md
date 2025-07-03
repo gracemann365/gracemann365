@@ -10,7 +10,7 @@
 |_______/  \_______/    \_/    |__/ \_______/       \______/ |__/       \_______/ \_______/ \_______/
 
 ```
-#  SWE ( Blockchain Infrastructure | Crypto | Agentic Payments )
+#  Blockchain Engineer
 ### 
 ### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru | ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
 ---
