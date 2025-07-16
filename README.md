@@ -12,7 +12,7 @@
 ```
 #  Blockchain Engineer
 ### 
-### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru | ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
+### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru 
 ---
 ## 💲 Who Is David Grace ?
 
