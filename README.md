@@ -1,41 +1,51 @@
-```text
+# Gracemann
 
- /$$$$$$$                       /$$       /$$        /$$$$$$                                         
-| $$__  $$                     |__/      | $$       /$$__  $$                                        
-| $$  \ $$  /$$$$$$  /$$    /$$ /$$  /$$$$$$$      | $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$ 
-| $$  | $$ |____  $$|  $$  /$$/| $$ /$$__  $$      | $$ /$$$$ /$$__  $$ |____  $$ /$$_____/ /$$__  $$
-| $$  | $$  /$$$$$$$ \  $$/$$/ | $$| $$  | $$      | $$|_  $$| $$  \__/  /$$$$$$$| $$      | $$$$$$$$
-| $$  | $$ /$$__  $$  \  $$$/  | $$| $$  | $$      | $$  \ $$| $$       /$$__  $$| $$      | $$_____/
-| $$$$$$$/|  $$$$$$$   \  $/   | $$|  $$$$$$$      |  $$$$$$/| $$      |  $$$$$$$|  $$$$$$$|  $$$$$$$
-|_______/  \_______/    \_/    |__/ \_______/       \______/ |__/       \_______/ \_______/ \_______/
+## Engineering Determinism
 
-```
-#  Blockchain Engineer
-### 
-### ✉️ [gracemann365@gmail.com](mailto:gracemann365@gmail.com) | 🗺️ Whitefield, Bengaluru 
----
-## 💲 Who Is David Grace ?
-
-### Im a Software Engineer , I strive to stay as Stack- and Domain-agnostic , But I Must Confess I have an obesssion for Blockchain Infra & Enterprise Fiat Infra
----
-
-### 💲 How I Build ( Full Lifecycle Engineering ) ? 
-
-1. **Full Lifecycle Engineering:**  
-   - Case study → Mental Mapping → HLD/LLD → Prereq Analysis → Lean e2e MVP with TDD & docs 
-   - TestOps → OSS Hygiene → Shipping -> DevOps → IaC → Cloud benchmarks → SRE & observability → Full product ownership
-
-2. **Quality Engineering, Not Just Coding:**  
-   - DRY, KISS, SOLID ; Modular by default (monolith or microservices).
-   - Nuanced tradeoffs—never overengineering. & Robust exception handling, strong test suite
-     
-## I Mirror Industry Standards So the Onboarding Is So Seamless I Contribute From Day #1
+**Contact:** [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
 
 ---
-### 💲 Domain Expertise ( Fiat & Crypto )
-- **Payments:** UPI, ISO 8583, ISO 27001 , ISO 20022 , idempotency, ledger flows , HMAC SHA 256
-- **Compliance:** PCI-DSS, KYC/AML, audit logging , RBI NPCI , FEDERAL RESERVE 
 
-### 💲 Where Do I See Myself Down the Lane ?
-Quant Finance · HPC Systems · High-Frequency Trading (HFT)
+![An abstract image showing an ordered, glowing sphere emerging from chaos, representing the concept of engineering determinism.](https://www.cnet.com/a/img/resize/6f9e9048071ad8ff056012d9b11ae58e126417ea/hub/2023/02/04/8e548baa-d5bc-4f99-a398-a4b9e2ad518a/screen-shot-2023-02-03-at-7-54-52-pm.png?auto=webp&fit=crop&height=1293&precrop=2924,1642,x0,y32&width=2300)
+*<p align="center">Jewels from chaos: A fascinating journey from abstract forms to physical objects</p>*
 
+### Abstract
+
+Gracemann is a research entity focused on engineering determinism within intrinsically stochastic and complex adaptive systems. Our objective is the principled elimination of probabilistic variance to achieve verifiably predictable and controllable systemic behaviors. We hypothesize that by systematically modeling and governing intricate environmental dynamics, we can enable significant advancements in system efficiency, security, and innovation.
+
+### 1. Research Mandate: Establishing Predictability
+
+In operational landscapes characterized by high-dimensional data flows and emergent interdependencies, Gracemann's mandate is to establish predictability. We aim to transform environments perceived as chaotic into computationally tractable, deterministic systems. This serves as a foundation for advanced autonomous orchestration and resilient decision-making frameworks.
+
+### 2. Strategic Research Vectors
+
+Our research is concentrated on two primary vectors, merging advanced AI with cryptoeconomic systems.
+
+![Futuristic data pathways and circuits, symbolizing the synergy between AI and DLT.](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lorenz_attractor_yb.svg)
+*<p align="center">Fusing Deterministic AI with Applied Crypto Engineering By Eliminating Influence of Butterfly effect </p>*
+
+* **2.1. Applied Crypto Engineering via LLM Augmentation:** We target the emergent volatility and complexity of Distributed Ledger Technology (DLT). Our work aims to establish novel frameworks for control within this dynamic landscape by leveraging Large Language Models (LLMs) to computationally model, forecast, and ultimately influence systemic outcomes.
+
+* **2.2. Deterministic AI & Automated Software Synthesis:** We address the fundamental non-determinism and ambiguous behavioral profiles of contemporary AI architectures. Our objective is the synthesis of intelligent computational systems that exhibit consistent, verifiable, and entirely predictable performance characteristics.
+
+### 3. Flagship Research Project: [Epiphany CLI](https://github.com/gracemann365/epiphany)
+
+Our commitment to this mandate is epitomized by `Epiphany CLI`, a command-line interface engineered for deterministic, multi-agent code reasoning. As an evolution of the Gemini CLI architecture, `Epiphany CLI` is designed to mitigate the inherent stochasticity of large language models.
+
+![A clean visualization of a complex graph network with nodes and edges, representing the core architecture of Epiphany CLI.](https://pathway.com/assets/content/blog/multi-agent-rag-system/11.png)
+*<p align="center">The Graph-Based, Multi-Agent Architecture of Epiphany CLI credits : Pathway Community </p>*
+
+#### 3.1. System Architecture
+
+* **Graph-Based Codebase Representation:** A Typed Property Graph (TPG) in a Neo4j database provides a semantically rich, queryable representation of software codebases.
+* **Multi-Agent Cognitive Framework (Spectrum Persona Protocol):** A graph-directed system orchestrates specialized, adversarially-collaborative AI agents (Engineer and QA personas) that leverage both persistent semantic (TPG) and transient episodic memory.
+* **Deterministic Execution & Validation Layer:** This layer incorporates Hallucination Probability Scoring (HPS) and Abstract Syntax Tree (AST) Snapshotting with atomic rollbacks to ensure all codebase mutations are controlled, validated, and guarantee systemic integrity.
+* **Kernel Implementation in Rust/`C++20`:** Core subsystems are implemented in Rust (1.70+) and `C++20` to achieve deterministic performance, memory safety, and true parallelism.
+* **eBPF-based OS Layer Integration (Experimental):** An OS-level integration layer leverages `eBPF` for kernel-level monitoring and stringent sandboxing of agent processes.
+
+`Epiphany CLI` represents a significant advancement towards autonomous and verifiably reliable software engineering paradigms.
+
+### 4. Invitation for Collaboration
+
+Gracemann actively solicits collaboration with researchers, principal engineers, and organizations aligned with our vision. We invite you to explore our **[Epiphany CLI repository](https://github.com/gracemann365/epiphany)** for detailed technical specifications and ongoing research contributions.
+Discuss @ [epiphany/discussions](https://github.com/gracemann365/epiphany/discussions) 
