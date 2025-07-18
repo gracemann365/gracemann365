@@ -21,7 +21,8 @@ In operational landscapes characterized by high-dimensional data flows and emerg
 
 Our research is concentrated on two primary vectors, merging advanced AI with cryptoeconomic systems.
 
-![Futuristic data pathways and circuits, symbolizing the synergy between AI and DLT.](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lorenz_attractor_yb.svg)
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Lorenz_attractor_yb.svg" alt="Futuristic data pathways and circuits, symbolizing the synergy between AI and DLT." width="800" height="400" >
+
 *<p align="center">Fusing Deterministic AI with Applied Crypto Engineering By Eliminating Influence of Butterfly effect </p>*
 
 * **2.1. Applied Crypto Engineering via LLM Augmentation:** We target the emergent volatility and complexity of Distributed Ledger Technology (DLT). Our work aims to establish novel frameworks for control within this dynamic landscape by leveraging Large Language Models (LLMs) to computationally model, forecast, and ultimately influence systemic outcomes.
