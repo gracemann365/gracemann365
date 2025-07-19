@@ -4,7 +4,7 @@
 
 ---
 
-![An abstract image showing an ordered, glowing sphere emerging from chaos, representing the concept of engineering determinism.](https://www.cnet.com/a/img/resize/6f9e9048071ad8ff056012d9b11ae58e126417ea/hub/2023/02/04/8e548baa-d5bc-4f99-a398-a4b9e2ad518a/screen-shot-2023-02-03-at-7-54-52-pm.png?auto=webp&fit=crop&height=1293&precrop=2924,1642,x0,y32&width=2300)
+![An abstract image showing an ordered, glowing sphere emerging from chaos, representing the concept of engineering determinism.](https://github.com/gracemann365/epiphany-cli/blob/main/docs/okk.gif)
 *<p align="center">[Jewels from chaos: A fascinating journey from abstract forms to physical objects](https://www.researchgate.net/publication/367404382_Jewels_from_chaos_A_fascinating_journey_from_abstract_forms_to_physical_objects)</p>*
 
 ## Abstract
